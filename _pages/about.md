@@ -9,12 +9,26 @@ redirect_from:
 
 I am a fifth-year PhD student currently studying at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests include AI model bottleneck analysis, AI model inference acceleration, domain-specific accelerator architecture design, and performance simulation.
 
-### Education Background
+Education Background
+=====
 - Institute of Computing Technology, CAS, Beijing, China (2021.09-Now)
   - Computer Science and Technology, GPA 3.77/4.0
 - Jiangnan University, Wuxi, Jiangsu, China (2017.09.01-2021.06.30)
   - Computer Science and Technology, GPA 3.74/4.0
+-----
 
+Selected Publications
+=====
+- Characterizing and Understanding HGNN Training on GPUs (**First Author**)
+  - *ACM Transactions on Code and Architecture Optimization (TACO)* (**CCF-A**)
+- HiHGNN: Accelerating HGNNs Through Parallelism and Data Reusability Exploitation (**Co-first Author, Equal Contribution**)
+  - *IEEE Transactions on Parallel and Distributed Systems (TPDS)* (**CCF-A**)
+ - ADE-HGNN: Accelerating HGNNs Through Attention Disparity Exploitation (**First Author**)
+   - *30th European Conference on Parallel and Distributed Processing (Euro-Par'24)* (**CCF-B**)
+ - TLV-HGNN: Thinking Like a Vertex for Memory-efficient HGNN Inference (**First Author**)
+   - *43rd IEEE International Conference on Computer Design (ICCD'25)* (**CCF-B**)
+
+-----
 
 A data-driven personal website
 ======
