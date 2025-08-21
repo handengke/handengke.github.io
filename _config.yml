@@ -22,7 +22,7 @@ repository               : "handengke/handengke.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cv.png"
   name             : "Dengke Han"
   pronouns         : #
   bio              : "Ph.D Candidate at Institute of Computing Technology, CAS"
