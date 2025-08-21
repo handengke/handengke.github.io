@@ -1,6 +1,5 @@
 ---
 title: "Characterizing and Understanding HGNN Training on GPUs"
-author: "**Dengke Han**, Mingyu Yan, Xiaochun Ye, and Dongrui Fan"
 collection: publications
 date: '2025-03-19'
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO) (CCF-A)'
