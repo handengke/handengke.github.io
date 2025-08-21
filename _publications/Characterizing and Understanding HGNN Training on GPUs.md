@@ -1,6 +1,7 @@
 ---
 title: "Characterizing and Understanding HGNN Training on GPUs"
 collection: publications
+permalink: /publication/Characterizing and Understanding HGNN Training on GPUs
 date: '2025-03-19'
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO) (CCF-A)'
 paperurl: https://dl.acm.org/doi/10.1145/3703356
