@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student currently studying at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests include AI model bottleneck analysis, AI model inference acceleration, domain-specific accelerator architecture design, and performance simulation.
+I am a fifth-year PhD student currently studying at Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). My research interests include performance bottleneck analysis of AI models, AI inference acceleration, domain-specific accelerator architecture design, and hardware performance simulation.
 
 -----
 
