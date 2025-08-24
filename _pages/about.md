@@ -24,7 +24,7 @@ Main Publications
 =====
 - (**CCF-A**) [Characterizing and Understanding HGNN Training on GPUs](https://dl.acm.org/doi/10.1145/3703356) (**First Author**)
   - *ACM Transactions on Code and Architecture Optimization (TACO)*
-- (**CCF-A**) [HiHGNN: Accelerating HGNNs Through Parallelism and Data Reusability Exploitation](https://ieeexplore.ieee.org/document/10510500) (**Equal Contribution**)
+- (**CCF-A**) [HiHGNN: Accelerating HGNNs Through Parallelism and Data Reusability Exploitation](https://ieeexplore.ieee.org/document/10510500) (**Co-first Author with Equal Contribution**)
   - *IEEE Transactions on Parallel and Distributed Systems (TPDS)*
 - (**CCF-B**) [ADE-HGNN: Accelerating HGNNs Through Attention Disparity Exploitation](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_7) (**First Author**)
    - *30th European Conference on Parallel and Distributed Processing (Euro-Par'24)*
