@@ -35,10 +35,11 @@ Main Publications
 
 Hornors and Awards
 =====
+- National Scholarship for Doctoral Students (2%, 2025)
 - Institute Director's Award for Excellence in ICT (3%, 2024)
-- Academic Scholarship at University of Chinese Academy of Sciences (2022/2023/2024)
-- Merit Student Award at University of Chinese Academy of Sciences (10%, 2023/2024)
 - Annual Outstanding Student of the State Key Lab of Processors (10%, 2023)
+- Merit Student Award at University of Chinese Academy of Sciences (10%, 2023/2024)
+- Academic Scholarship at University of Chinese Academy of Sciences (2022/2023/2024/2025)
 
 -----
 
